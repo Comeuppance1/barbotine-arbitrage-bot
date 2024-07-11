@@ -9,4 +9,4 @@ for exchange in echanges_str:
     except Exception as e:
         delay = int(round((time.time() - time1)*1000,0))
         print(f"{exchange} delay: {delay} ms")
- not and if if with for not if and
+ not and if if with for not if and if
